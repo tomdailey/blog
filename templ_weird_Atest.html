@@ -4,22 +4,23 @@
 	<title>Template 1</title>
 	
 	<style type="text/css">
-		#page {
-			background-color: #efefef;
-		}
-		#header {
-			background-color: #009933;
-			height: 600;
-			text-align: center;
-		}
 		body {
+			background-color: #efefef;
+
+		}
+		#page {
 			font-family: monospace;
 			font-size: 160%;
 			width: 80%;
 			margin: auto;
 			position: relative;
 			overflow: auto;
-
+		}
+		#header {
+			position: relative;
+			background-color: #009933;
+			height: 600;
+			text-align: center;
 		}
 		#nav, #content {
 			height: auto;
@@ -42,15 +43,17 @@
 		<!-- What am I supposed to put here? -->
 	</meta>
 </head>
-<div id="page" >
+<body>
 
 	<div id="header">
 		<h1>A Blog.             </h1>
 	</div>
 
-<body>
+<div id="page" >
+
 	<div id="nav">
-	<h3>Navigation</h3>
+
+		<h3>Navigation</h3>
 	<ul>
 	<li>	<a href="content.html">Contents</a> </li>
 	<li>	<a href="images">Images</a> </li>

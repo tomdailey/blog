@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Template 1</title>
+	<style type="text/css">
+		body {
+			font-family: monospace;
+			font-size: 160%;
+			background-color: #efefef;
+		}
+		#page {
+			width
+		}
+	</style>
+	<meta>
+		What am I supposed to put here?
+	</meta>
+</head>
+<body>
+	<h1>Title of the piece</h1>
+	<p>This one is just a general framework for the other blogs. I don't have that much to say, but I want to have enough in this so that it resembles what the other one's are like. So, be warned, this might get a little fluffy, but I'll try to keep that to a minimum.</p>
+	<h2>Second priority heading number 1<h1>
+	<p>There's an interesting <i>modus francus</i> of internet blogs. The kind that seem so well organized, and make a point to bolden <s>their most important points</b> and make lists of things, often with unnecessary items, and always with pedantic, explanations.</p>
+	<p>It's as if they desine their articles to be understood and appreciated by lazy people that don't actually want to read all of the article, but they want everyone to think that there really is a full article there. The internet gets away with some serious bulshit. The editors aren't the same, the audiences aren't as universal, and the attentions spans of the reader are pathetc.</p>
+	<h2>The Internet Exhagerates</h2>
+
+</body>
+</html>
